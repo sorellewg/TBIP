@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "TBIP"
+  title: "TBIP (beta)"
   navbar:
     left:
       - href: data/index.qmd
@@ -13,8 +13,10 @@ website:
       - href: visuals/index.qmd
         text: Visuals
   page-footer:
-    left: "Maintained by [SoRelle Gaynor](https://sorellewg.com), University of Virginia"
+    left: "Maintained by [SoRelle W. Gaynor](https://sorellewg.com), University of Virginia"
     right: "Questions? [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu)"
+  favicon: favicon.webp
+  navbar:
 
 format:
   html:
