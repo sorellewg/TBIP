@@ -8,7 +8,7 @@ title: "Datasets"
 |----------|----------|
 | 114th Congress | [Download CSV](files/TBIP_house114.csv) |
 | 115th Congress | [Download CSV](files/TBIP_house115.csv) |
-| 116th Congress | [Downlaod CSV](files/TBIP_house116.csv) |
+| 116th Congress | [Download CSV](files/TBIP_house116.csv) |
 | 117th Congress | [Download CSV](files/TBIP_house117.csv) |
 | 118th Congress | [Download CSV](files/TBIP_house118.csv) |
 
@@ -18,7 +18,7 @@ title: "Datasets"
 |----------|----------|
 | 114th Congress | [Download CSV](files/TBIP_senate114.csv) |
 | 115th Congress | [Download CSV](files/TBIP_senate115.csv) |
-| 116th Congress | [Downlaod CSV](files/TBIP_senate116.csv) |
+| 116th Congress | [Download CSV](files/TBIP_senate116.csv) |
 | 117th Congress | [Download CSV](files/TBIP_senate117.csv) |
 | 118th Congress | [Download CSV](files/TBIP_senate118.csv) |
 

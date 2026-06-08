@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "data/index.html",
+    "href": "data/index.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "U.S. House\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownload CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\n\nU.S. Senate\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownload CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\nCitation: Gaynor, S.W. and Goel, P. “Text-based ideal points for the U.S. Congress”, 2026. sorellewg.github.io/TBIP"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,6 +26,13 @@
     "title": "Text-Based Ideal Points for the U.S. Congress",
     "section": "",
     "text": "TBIP provides researchers with a novel measure of ideology, based on texts."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "About",
+    "text": "About\nTBIP are a novel measure of ideology via text-based ideal points that infer ideological positions based on text alone—in this case, congressional floor speeches. The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators."
   },
   {
     "objectID": "index.html#data",
@@ -42,20 +56,6 @@
     "text": "Visuals\nInteractive visualizations. Browse visuals."
   },
   {
-    "objectID": "visuals/index.html",
-    "href": "visuals/index.html",
-    "title": "Visuals",
-    "section": "",
-    "text": "Interactive visualizations coming soon."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Text-Based Ideal Points for the U.S. Congress",
-    "section": "About",
-    "text": "About\nTBIP are a novel measure of ideology via text-based ideal points that infer ideological positions based on text alone—in this case, congressional floor speeches. The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators."
-  },
-  {
     "objectID": "index.html#research-team",
     "href": "index.html#research-team",
     "title": "Text-Based Ideal Points for the U.S. Congress",
@@ -63,10 +63,10 @@
     "text": "Research team\nPrincipal investigators\nSoRelle Gaynor, University of Virginia\nPranav Goel, Northeastern University\nResearch assistants\nSamuel Du, University of Virginia (graduate)\nLakshay Kansal, University of Virginia\nMusayab Razaq, University of Virginia"
   },
   {
-    "objectID": "data/index.html",
-    "href": "data/index.html",
-    "title": "Datasets",
+    "objectID": "visuals/index.html",
+    "href": "visuals/index.html",
+    "title": "Visuals",
     "section": "",
-    "text": "U.S. House\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownlaod CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\n\nU.S. Senate\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownlaod CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\nCitation: Gaynor, S.W. and Goel, P. “Text-based ideal points for the U.S. Congress”, 2026. sorellewg.github.io/TBIP"
+    "text": "Interactive visualizations coming soon."
   }
 ]
