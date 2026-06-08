@@ -1,0 +1,34 @@
+---
+title: "Text-Based Ideal Points for the U.S. Congress"
+---
+
+TBIP provides researchers with a novel measure of ideology, based on texts.
+
+## About
+
+TBIP are a novel measure of ideology via text-based ideal points that infer ideological positions based on text alone—in this case, congressional floor speeches. The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators.
+
+## Data
+
+Datasets available for download. [Browse datasets](data/index.qmd).
+
+## Papers
+
+Working papers and publications. [Browse papers](papers/index.qmd).
+
+## Visuals
+
+Interactive visualizations. [Browse visuals](visuals/index.qmd).
+
+## Research team
+
+**Principal investigators**
+
+SoRelle Gaynor, University of Virginia  
+Pranav Goel, Northeastern University
+
+**Research assistants**
+
+Samuel Du, University of Virginia (graduate)  
+Lakshay Kansal, University of Virginia  
+Musayab Razaq, University of Virginia

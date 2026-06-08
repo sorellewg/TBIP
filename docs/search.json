@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "“Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences”\nGaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). Journal of Politics, 88(4). https://doi.org/10.1086/736360\nMembers of Congress face consistent pressure—and ample opportunity—to express their ideological positions. The most commonly measured outlet is congressional floor votes, but it is not the only one. This research develops three novel ideal point measures across different ideological expressions—votes, floor speeches, and tweets—to capture the understudied interaction between ideology, communication style, and audience. We find that legislators use speech and tweets to convey nuance in their ideological positions and to differentiate themselves from other members of their party in ways that voting does not allow. In general, Republicans use text-based opportunities, particularly Twitter, to express more conservative positions, while Democratic positioning is dependent on a legislator’s district and personal attributes. In both theory and methods, this work engages the considerable literature on the measurement of ideology and congressional representation. This research contributes to our understanding of legislator behavior and ideological positioning and introduces three replicable ideal point models to measure the ideology of members of the US Congress. PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "",
+    "text": "TBIP provides researchers with a novel measure of ideology, based on texts."
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "Data",
+    "text": "Data\nDatasets available for download. Browse datasets."
+  },
+  {
+    "objectID": "index.html#papers",
+    "href": "index.html#papers",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "Papers",
+    "text": "Papers\nWorking papers and publications. Browse papers."
+  },
+  {
+    "objectID": "index.html#visuals",
+    "href": "index.html#visuals",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "Visuals",
+    "text": "Visuals\nInteractive visualizations. Browse visuals."
+  },
+  {
+    "objectID": "visuals/index.html",
+    "href": "visuals/index.html",
+    "title": "Visuals",
+    "section": "",
+    "text": "Interactive visualizations coming soon."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "About",
+    "text": "About\nTBIP are a novel measure of ideology via text-based ideal points that infer ideological positions based on text alone—in this case, congressional floor speeches. The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators."
+  },
+  {
+    "objectID": "index.html#research-team",
+    "href": "index.html#research-team",
+    "title": "Text-Based Ideal Points for the U.S. Congress",
+    "section": "Research team",
+    "text": "Research team\nPrincipal investigators\nSoRelle Gaynor, University of Virginia\nPranav Goel, Northeastern University\nResearch assistants\nSamuel Du, University of Virginia (graduate)\nLakshay Kansal, University of Virginia\nMusayab Razaq, University of Virginia"
+  },
+  {
+    "objectID": "data/index.html",
+    "href": "data/index.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "U.S. House\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownlaod CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\n\nU.S. Senate\n\n\n\nCongress\nDownload\n\n\n\n\n114th Congress\nDownload CSV\n\n\n115th Congress\nDownload CSV\n\n\n116th Congress\nDownlaod CSV\n\n\n117th Congress\nDownload CSV\n\n\n118th Congress\nDownload CSV\n\n\n\n\nCitation: Gaynor, S.W. and Goel, P. “Text-based ideal points for the U.S. Congress”, 2026. sorellewg.github.io/TBIP"
+  }
+]

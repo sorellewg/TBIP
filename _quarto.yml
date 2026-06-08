@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "TBIP"
+  navbar:
+    left:
+      - href: data/index.qmd
+        text: Data
+      - href: papers/index.qmd
+        text: Papers
+      - href: visuals/index.qmd
+        text: Visuals
+  page-footer:
+    left: "Maintained by [SoRelle Gaynor](https://sorellewg.com), University of Virginia"
+    right: "Questions? [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
