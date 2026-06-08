@@ -25,4 +25,4 @@ title: "Datasets"
 
 ---
 
-**Citation:** Gaynor, S.W. and Goel, P. "Text-based ideal points for the U.S. Congress", 2026. [sorellewg.github.io/TBIP](https://sorellewg.github.io/TBIP)
+**Citation:** Gaynor, S.W. and Goel, P. "Text-based ideal points for the U.S. Congress", 2026. [sorellewg.github.io/TBIP](https://tbip-scores.org)

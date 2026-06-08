@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "TBIP (beta)"
+  favicon: favicon.webp
   navbar:
     left:
       - href: data/index.qmd
@@ -15,7 +18,6 @@ website:
   page-footer:
     left: "Maintained by [SoRelle W. Gaynor](https://sorellewg.com), University of Virginia"
     right: "Questions? [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu)"
-  favicon: favicon.webp
 
 format:
   html:
@@ -23,3 +25,4 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    
