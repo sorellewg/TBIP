@@ -16,7 +16,6 @@ website:
     left: "Maintained by [SoRelle W. Gaynor](https://sorellewg.com), University of Virginia"
     right: "Questions? [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu)"
   favicon: favicon.webp
-  navbar:
 
 format:
   html:
