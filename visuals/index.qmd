@@ -2,4 +2,4 @@
 title: "Visuals"
 ---
 
-Interactive visualizations coming soon.
+TK!
