@@ -1,0 +1,13 @@
+---
+title: "Methodology"
+---
+
+Text-based ideal points (TBIP) infers ideological positions based on text. The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators.
+
+### "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences"
+
+Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
+
+Members of Congress face consistent pressure—and ample opportunity—to express their ideological positions. This research develops three novel ideal point measures across different ideological expressions—votes, floor speeches, and tweets—to capture the understudied interaction between ideology, communication style, and audience.
+
+[PDF](../papers/files/GaynorMillerGoelHoyleResnik_ExpressYourself_JOP2026.pdf)

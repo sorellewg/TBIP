@@ -9,12 +9,12 @@ website:
   favicon: favicon.webp
   navbar:
     left:
-      - href: data/index.qmd
-        text: Data
-      - href: papers/index.qmd
-        text: Papers
-      - href: visuals/index.qmd
-        text: Visuals
+      - href: speeches/index.qmd
+        text: Floor Speeches
+      - href: twitter/index.qmd
+        text: Twitter
+      - href: methodology/index.qmd
+        text: Methodology
   page-footer:
     left: "Maintained by [SoRelle W. Gaynor](https://sorellewg.com), University of Virginia"
     right: "Questions? [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu)"

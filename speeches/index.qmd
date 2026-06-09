@@ -1,0 +1,27 @@
+---
+title: "Data: Floor Speeches"
+---
+
+### U.S. House
+
+| Congress | Download |
+|----------|----------|
+| 114th Congress | [Download CSV](files/TBIP_114house.csv) |
+| 115th Congress | [Download CSV](files/TBIP_115house.csv) |
+| 116th Congress | [Download CSV](files/TBIP_116house.csv) |
+| 117th Congress | [Download CSV](files/TBIP_117house.csv) |
+| 118th Congress | [Download CSV](files/TBIP_118house.csv) |
+
+### U.S. Senate
+
+| Congress | Download |
+|----------|----------|
+| 114th Congress | [Download CSV](files/TBIP_114senate.csv) |
+| 115th Congress | [Download CSV](files/TBIP_115senate.csv) |
+| 116th Congress | [Download CSV](files/TBIP_116senate.csv) |
+| 117th Congress | [Download CSV](files/TBIP_117senate.csv) |
+| 118th Congress | [Download CSV](files/TBIP_118senate.csv) |
+
+---
+
+**Citation:** Gaynor, S.W. and Goel, P. "Text-based ideal points for the U.S. Congress", 2026. [tbip-scores.org](https://tbip-scores.org)
