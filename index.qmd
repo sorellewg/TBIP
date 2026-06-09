@@ -6,9 +6,10 @@ TBIP provides researchers with a novel measure of ideology based on texts.
 
 ## Data
 
-Datasets available for download. 
-**[Floor speeches](speeches/index.qmd).
-**[Twitter](twitter/index.qmd).
+Datasets available for download.
+
+- [Floor Speeches](speeches/index.qmd)
+- [Twitter](twitter/index.qmd)
 
 ## Methodology
 
