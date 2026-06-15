@@ -2,12 +2,16 @@
 title: "Methodology"
 ---
 
-Text-based ideal points (TBIP) infers ideological positions based on text. 
+Text-based ideal points (TBIP) infers ideological positions based on text.
 
-he model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model.
-{\mathrm{word\ rate}}_{i,k,v}={\underbrace{\eta_{k,v}}}\below{\mathrm{neutral\ baseline}}+x_i\cdot{\underbrace{\kappa_{k,v}}}\below{\mathrm{ideological\ polarity}}
+The model extends prior work by Vafa et al. (2020) and earlier iterations of Gaynor et al. (2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model.
+
+$$
+\text{word rate}_{i,k,v} = \underbrace{\eta_{k,v}}_{\text{neutral baseline}} + x_i \cdot \underbrace{\kappa_{k,v}}_{\text{ideological polarity}}
+$$
 
 The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators.
+
 $$
 \{w_{d,n}\} \xrightarrow{\text{LDA (Gibbs)}} (\hat{\beta}, \hat{\theta}) \xrightarrow{\text{TBIP}} \{x_i\}
 $$

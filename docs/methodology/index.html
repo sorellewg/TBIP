@@ -169,8 +169,12 @@ window.Quarto = {
 
 
 <p>Text-based ideal points (TBIP) infers ideological positions based on text.</p>
-<p>he model extends prior work by Vafa et al.&nbsp;(2020) and earlier iterations of Gaynor et al.&nbsp;(2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model. {}_{i,k,v}={}+x_i</p>
-<p>The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators. <span class="math display">\[
+<p>The model extends prior work by Vafa et al.&nbsp;(2020) and earlier iterations of Gaynor et al.&nbsp;(2026), which utilizes Latent Dirichlet Allocation (LDA) via Gibbs sampling to generate outputs based on topic-word distribution (β) and document topic distributions (θ). These estimates are then used to initialize the TBIP model.</p>
+<p><span class="math display">\[
+\text{word rate}_{i,k,v} = \underbrace{\eta_{k,v}}_{\text{neutral baseline}} + x_i \cdot \underbrace{\kappa_{k,v}}_{\text{ideological polarity}}
+\]</span></p>
+<p>The resulting ideal points capture not only the topics legislators engage with, but also the ideological framing and word choices used when discussing those topics. As a result, ideal points are determined jointly by topic engagement and topic-specific word polarity, allowing the model to estimate stable ideological positions without relying on party labels or other external ideological indicators.</p>
+<p><span class="math display">\[
 \{w_{d,n}\} \xrightarrow{\text{LDA (Gibbs)}} (\hat{\beta}, \hat{\theta}) \xrightarrow{\text{TBIP}} \{x_i\}
 \]</span></p>
 <p><span class="math display">\[
