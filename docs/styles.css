@@ -97,3 +97,9 @@ nav[role="doc-toc"] a.active {
 .content p {
   font-size: 0.92rem;
 }
+
+/* Methodology page headings */
+.content h3 {
+  font-size: 1.0rem;
+  font-weight: 500;
+}
