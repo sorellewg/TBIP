@@ -17,6 +17,7 @@ $$
 $$
 
 Read more about the model and initial application here:
+
 ### "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences"
 
 Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
