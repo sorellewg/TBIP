@@ -2,6 +2,8 @@
 title: "Data: Floor Speeches"
 ---
 
+Lawmakers with fewer than 10 speeches per congressional session are removed from the dataset. 
+
 ### U.S. House
 
 | Congress | Download |

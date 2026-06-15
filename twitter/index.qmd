@@ -2,4 +2,12 @@
 title: "Data: Twitter"
 ---
 
-Coming soon.
+### U.S. House
+
+| Congress | Download |
+|----------|----------|
+| 115th-116th Congress (combined) | [Download CSV](files/TBIP_115116.csv) |
+
+---
+
+**Citation:** Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
