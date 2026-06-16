@@ -20,9 +20,8 @@ $$
 \underbrace{\hspace{2.5cm}}_{\text{speeches}} \hspace{2cm} \underbrace{\hspace{2.5cm}}_{\text{topic structure}} \hspace{1.5cm} \underbrace{\hspace{1.5cm}}_{\text{ideal points}}
 $$
 
----
-title: "Publications"
----
+## Publications
+
 Read more about the model and initial application here:
 
 ### "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences"
