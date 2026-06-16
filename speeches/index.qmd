@@ -26,4 +26,4 @@ Lawmakers with fewer than 10 speeches per congressional session are removed from
 
 ---
 
-**Citation:** Gaynor, S.W. and Goel, P. "Text-based ideal points for the U.S. Congress", 2026. [tbip-scores.org](https://tbip-scores.org)
+**Citation:** Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
