@@ -1,0 +1,43 @@
+---
+title: "U.S. House"
+aliases:
+  - ../speeches/index.html
+  - ../twitter/index.html
+---
+
+## Explore topics
+
+Browse the topics behind each Congress's ideal points. Use **Congressional Sessions** to switch Congress and the arrows or topic list to move between topics.
+
+```{=html}
+<div class="tbip-viewer">
+  <iframe src="topics/118_combined.html" title="TBIP topics, U.S. House" loading="lazy"></iframe>
+</div>
+<p class="viewer-note"><a href="topics/118_combined.html" target="_blank" rel="noopener">Open full screen ↗</a></p>
+```
+
+## Floor speeches
+
+Lawmakers with fewer than 10 speeches per congressional session are removed from the dataset. See the [codebook (PDF)](../speeches/files/Codebook.pdf) for variable definitions.
+
+| Congressional term | Years | Download |
+|--------------------|-------|----------|
+| 118th Congress | 2023–2025 | [CSV](../speeches/files/TBIP_118house.csv) |
+| 117th Congress | 2021–2023 | [CSV](../speeches/files/TBIP_117house.csv) |
+| 116th Congress | 2019–2021 | [CSV](../speeches/files/TBIP_116house.csv) |
+| 115th Congress | 2017–2019 | [CSV](../speeches/files/TBIP_115house.csv) |
+| 114th Congress | 2015–2017 | [CSV](../speeches/files/TBIP_114house.csv) |
+| 113th Congress | 2013–2015 | [CSV](../speeches/files/TBIP_113house.csv) |
+| 112th Congress | 2011–2013 | [CSV](../speeches/files/TBIP_112house.csv) |
+| 111th Congress | 2009–2011 | [CSV](../speeches/files/TBIP_111house.csv) |
+| 110th Congress | 2007–2009 | [CSV](../speeches/files/TBIP_110house.csv) |
+
+## Twitter
+
+| Congressional term | Years | Download |
+|--------------------|-------|----------|
+| 115th–116th Congress (combined) | 2017–2021 | [CSV](../twitter/files/TBIP_115116.csv) |
+
+::: {.citation-box}
+**Citation:** Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences." *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
+:::

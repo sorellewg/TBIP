@@ -1,0 +1,22 @@
+---
+title: "U.S. Senate"
+---
+
+## Floor speeches
+
+Lawmakers with fewer than 10 speeches per congressional session are removed from the dataset. See the [codebook (PDF)](../speeches/files/Codebook.pdf) for variable definitions.
+
+| Congressional term | Years | Download |
+|--------------------|-------|----------|
+| 118th Congress | 2023–2025 | [CSV](../speeches/files/TBIP_118senate.csv) |
+| 117th Congress | 2021–2023 | [CSV](../speeches/files/TBIP_117senate.csv) |
+| 116th Congress | 2019–2021 | [CSV](../speeches/files/TBIP_116senate.csv) |
+| 115th Congress | 2017–2019 | [CSV](../speeches/files/TBIP_115senate.csv) |
+| 114th Congress | 2015–2017 | [CSV](../speeches/files/TBIP_114senate.csv) |
+| 113th Congress | 2013–2015 | [CSV](../speeches/files/TBIP_113senate.csv) |
+| 112th Congress | 2011–2013 | [CSV](../speeches/files/TBIP_112senate.csv) |
+| 111th Congress | 2009–2011 | [CSV](../speeches/files/TBIP_111senate.csv) |
+
+::: {.citation-box}
+**Citation:** Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). "Express Yourself (Ideologically): Legislators' Ideal Points Across Audiences." *Journal of Politics*, 88(4). [https://doi.org/10.1086/736360](https://doi.org/10.1086/736360)
+:::

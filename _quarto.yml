@@ -3,16 +3,20 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - "house/topics/"
+    - "speeches/files/"
+    - "twitter/files/"
+    - "images/"
 
 website:
   title: "TBIP (beta)"
   favicon: favicon.webp
   navbar:
     left:
-      - href: speeches/index.qmd
-        text: Floor Speeches
-      - href: twitter/index.qmd
-        text: Twitter
+      - href: house/index.qmd
+        text: House
+      - href: senate/index.qmd
+        text: Senate
       - href: methodology/index.qmd
         text: Methodology
   page-footer:
@@ -25,4 +29,3 @@ format:
     css: styles.css
     toc: false
     page-layout: full
-    

@@ -1,29 +1,35 @@
 ---
-title: "Text-Based Ideal Points for the U.S. Congress"
+pagetitle: "Text-Based Ideal Points for the U.S. Congress"
 ---
 
-TBIP provides researchers with a novel measure of ideology based on texts.
+```{=html}
+<section class="hero">
+  <h1 class="hero-title">Text-Based Ideal Points for the U.S. Congress</h1>
+  <p class="lede">TBIP provides researchers with a novel measure of ideology based on texts.</p>
 
-## Data
+  <figure class="hero-fig">
+    <img src="images/house118.svg" alt="Dot plot of 118th House ideal points: Democrats cluster on the left, Republicans on the right">
+    <figcaption>TBIP, floor speeches, 118th House
+      <span class="key dem">Democrats</span> <span class="key rep">Republicans</span></figcaption>
+  </figure>
 
-Datasets available for download.
+  <div class="hero-links">
+    <a class="btn-tbip" href="house/index.html">House data</a>
+    <a class="btn-tbip" href="senate/index.html">Senate data</a>
+    <a class="btn-tbip ghost" href="methodology/index.html">Methodology</a>
+  </div>
+</section>
+```
 
-- [Floor Speeches](speeches/index.qmd)
-- [Twitter](twitter/index.qmd)
+::: {.home-team}
+### Research team
 
-## Methodology
-
-Browse published work and learn more. [Methodology](methodology/index.qmd).
-
-## Research team
-
-**Principal investigators**
-
-SoRelle W. Gaynor, University of Virginia  
+**Principal investigators**<br>
+SoRelle W. Gaynor, University of Virginia<br>
 Pranav Goel, Northeastern University
 
-**Research assistants**
-
-Samuel Du, University of Virginia (graduate)  
-Lakshay Kansal, University of Virginia  
+**Research assistants**<br>
+Samuel Du, University of Virginia (graduate)<br>
+Lakshay Kansal, University of Virginia<br>
 Musayab Razaq, University of Virginia
+:::

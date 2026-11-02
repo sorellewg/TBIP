@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Text-Based Ideal Points for the U.S. Congress",
     "section": "",
-    "text": "TBIP provides researchers with a novel measure of ideology based on texts."
+    "text": "Text-Based Ideal Points for the U.S. Congress\n  TBIP provides researchers with a novel measure of ideology based on texts.\n\n  \n    \n    TBIP, floor speeches, 118th House\n      Democrats Republicans\n  \n\n  \n    House data\n    Senate data\n    Methodology\n  \n\n\nResearch team\nPrincipal investigators SoRelle W. Gaynor, University of Virginia Pranav Goel, Northeastern University\nResearch assistants Samuel Du, University of Virginia (graduate) Lakshay Kansal, University of Virginia Musayab Razaq, University of Virginia"
   },
   {
     "objectID": "index.html#data",
@@ -75,5 +75,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "house/index.html",
+    "href": "house/index.html",
+    "title": "U.S. House",
+    "section": "",
+    "text": "Browse the topics behind each Congress’s ideal points. Use Congressional Sessions to switch Congress and the arrows or topic list to move between topics.\n\n  \n\nOpen full screen ↗"
+  },
+  {
+    "objectID": "house/index.html#explore-topics",
+    "href": "house/index.html#explore-topics",
+    "title": "U.S. House",
+    "section": "",
+    "text": "Browse the topics behind each Congress’s ideal points. Use Congressional Sessions to switch Congress and the arrows or topic list to move between topics.\n\n  \n\nOpen full screen ↗"
+  },
+  {
+    "objectID": "house/index.html#floor-speeches",
+    "href": "house/index.html#floor-speeches",
+    "title": "U.S. House",
+    "section": "Floor speeches",
+    "text": "Floor speeches\nLawmakers with fewer than 10 speeches per congressional session are removed from the dataset. See the codebook (PDF) for variable definitions.\n\n\n\nCongressional term\nYears\nDownload\n\n\n\n\n118th Congress\n2023–2025\nCSV\n\n\n117th Congress\n2021–2023\nCSV\n\n\n116th Congress\n2019–2021\nCSV\n\n\n115th Congress\n2017–2019\nCSV\n\n\n114th Congress\n2015–2017\nCSV\n\n\n113th Congress\n2013–2015\nCSV\n\n\n112th Congress\n2011–2013\nCSV\n\n\n111th Congress\n2009–2011\nCSV\n\n\n110th Congress\n2007–2009\nCSV"
+  },
+  {
+    "objectID": "house/index.html#twitter",
+    "href": "house/index.html#twitter",
+    "title": "U.S. House",
+    "section": "Twitter",
+    "text": "Twitter\n\n\n\nCongressional term\nYears\nDownload\n\n\n\n\n115th–116th Congress (combined)\n2017–2021\nCSV\n\n\n\n\nCitation: Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). “Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences.” Journal of Politics, 88(4). https://doi.org/10.1086/736360"
+  },
+  {
+    "objectID": "senate/index.html",
+    "href": "senate/index.html",
+    "title": "U.S. Senate",
+    "section": "",
+    "text": "Lawmakers with fewer than 10 speeches per congressional session are removed from the dataset. See the codebook (PDF) for variable definitions.\n\n\n\nCongressional term\nYears\nDownload\n\n\n\n\n118th Congress\n2023–2025\nCSV\n\n\n117th Congress\n2021–2023\nCSV\n\n\n116th Congress\n2019–2021\nCSV\n\n\n115th Congress\n2017–2019\nCSV\n\n\n114th Congress\n2015–2017\nCSV\n\n\n113th Congress\n2013–2015\nCSV\n\n\n112th Congress\n2011–2013\nCSV\n\n\n111th Congress\n2009–2011\nCSV\n\n\n\n\nCitation: Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). “Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences.” Journal of Politics, 88(4). https://doi.org/10.1086/736360"
+  },
+  {
+    "objectID": "senate/index.html#floor-speeches",
+    "href": "senate/index.html#floor-speeches",
+    "title": "U.S. Senate",
+    "section": "",
+    "text": "Lawmakers with fewer than 10 speeches per congressional session are removed from the dataset. See the codebook (PDF) for variable definitions.\n\n\n\nCongressional term\nYears\nDownload\n\n\n\n\n118th Congress\n2023–2025\nCSV\n\n\n117th Congress\n2021–2023\nCSV\n\n\n116th Congress\n2019–2021\nCSV\n\n\n115th Congress\n2017–2019\nCSV\n\n\n114th Congress\n2015–2017\nCSV\n\n\n113th Congress\n2013–2015\nCSV\n\n\n112th Congress\n2011–2013\nCSV\n\n\n111th Congress\n2009–2011\nCSV\n\n\n\n\nCitation: Gaynor, S. W., Miler, K., Goel, P., Hoyle, A. M., and Resnik, P. (2026). “Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences.” Journal of Politics, 88(4). https://doi.org/10.1086/736360"
   }
 ]
