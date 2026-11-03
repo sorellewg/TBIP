@@ -25,11 +25,13 @@ pagetitle: "Text-Based Ideal Points for the U.S. Congress"
 ### Research team
 
 **Principal investigators**<br>
-SoRelle W. Gaynor, University of Virginia<br>
+SoRelle W. Gaynor, University of Virginia\* <br>
 Pranav Goel, Northeastern University
 
 **Research assistants**<br>
 Samuel Du, University of Virginia (graduate)<br>
 Lakshay Kansal, University of Virginia<br>
 Musayab Razaq, University of Virginia
+
+\*Site maintained by SoRelle W. Gaynor. Please contact [sorellewg@virginia.edu](mailto:sorellewg@virginia.edu) for feedback, suggestions, or issues.
 :::
